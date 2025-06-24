@@ -1,1 +1,1 @@
-The above folders contain the problems i have solved in competitive programming during the course of the project.
+These folders contain the competitive programming problems I solved throughout the duration of this project.
