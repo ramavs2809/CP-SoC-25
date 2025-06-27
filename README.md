@@ -1,4 +1,5 @@
 These folders contain the competitive programming problems I solved throughout the duration of this project.
+Each file have solution to mentioned problem and first line of the solution have link of the problem as a comment.
 
 I’m currently halfway through reading The Competitive Programmer’s Handbook by Antti Laaksonen, and it’s been a great resource for CP.
 Topic's Completed :
