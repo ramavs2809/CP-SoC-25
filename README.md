@@ -13,4 +13,4 @@ Dynamic Programming,
 Bit manipulation, 
 Number Theory.
 
-This the the repo for the full project, so I will be updating it everyday.
+This is the the repo for the full project, so I will be updating it everyday.
