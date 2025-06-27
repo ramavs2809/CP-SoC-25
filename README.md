@@ -2,6 +2,7 @@ These folders contain the competitive programming problems I solved throughout t
 Each file have solution to mentioned problem and first line of the solution have link of the problem as a comment.
 
 I’m currently halfway through reading The Competitive Programmer’s Handbook by Antti Laaksonen, and it’s been a great resource for CP.
+
 Topic's Completed :
 Time Complexity, 
 Sorting, 
@@ -11,3 +12,5 @@ Greedy Algorithms,
 Dynamic Programming, 
 Bit manipulation, 
 Number Theory.
+
+This the the repo for the full project, so I will be updating it everyday.
