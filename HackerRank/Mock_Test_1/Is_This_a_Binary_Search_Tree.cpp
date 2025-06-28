@@ -9,19 +9,21 @@ The Node struct is defined as follows:
 	}
 */
 
-void walk(Node* x,vector<int> &v){
-        vector<int> u;
-        if(x->left){walk(x->left,u);}
-        u.push_back(x->data);
-        if(x->right){walk(x->right,u);}
-        v.insert(v.end(),u.begin(),u.end());
-}
-bool checkBST(Node* root) {
-		vector<int> v;
-        walk(root,v);
-        bool b=true;
-        for(int i=0;i<int(v.size()-1);i++){
-            b=b&&(v[i]<v[i+1]);
-        }
-        return b;
-}
+//Uncomment the below code and run
+
+// void walk(Node* x,vector<int> &v){
+//         vector<int> u;
+//         if(x->left){walk(x->left,u);}
+//         u.push_back(x->data);
+//         if(x->right){walk(x->right,u);}
+//         v.insert(v.end(),u.begin(),u.end());
+// }
+// bool checkBST(Node* root) {
+// 		vector<int> v;
+//         walk(root,v);
+//         bool b=true;
+//         for(int i=0;i<int(v.size()-1);i++){
+//             b=b&&(v[i]<v[i+1]);
+//         }
+//         return b;
+// }
