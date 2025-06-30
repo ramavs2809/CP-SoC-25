@@ -15,7 +15,7 @@ Number Theory.
 
 This is the the repo for the full project, so I will be updating it everyday.
 
-Codeforces Handle : Ram_2809
+Codeforces Username : Ram_2809
 
 CSES Username : FOX_2809
 
