@@ -41,6 +41,7 @@ void solve(){
     fo1(i,1,n+1){
         fo1(j,1,7){
             a[i]+=(((i-j)>=0)?(a[i-j]):0);
+            a[i]%=MOD;
         }
     }
     cout<<a[n]<<"\n";
