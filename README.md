@@ -4,6 +4,7 @@ Each file have solution to mentioned problem and first line of the solution have
 I’m currently halfway through reading The Competitive Programmer’s Handbook by Antti Laaksonen, and it’s been a great resource for CP.
 
 Plan given by the mentor :
+
 Week 1: Arrays, Time Complexity, Binary Search, Two Pointers, Sorting
 
 Week 2: Strings, Pattern Matching, Recursion, Number Theory (GCD, Sieve, Modular Arithmetic)
