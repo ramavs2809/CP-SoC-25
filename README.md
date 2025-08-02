@@ -3,19 +3,11 @@ Each file have solution to mentioned problem and first line of the solution have
 
 I’m currently halfway through reading The Competitive Programmer’s Handbook by Antti Laaksonen, and it’s been a great resource for CP.
 
-Topic's Completed :
-Time Complexity, 
-Sorting, 
-Data Structures, 
-Complete Search, 
-Greedy Algorithms, 
-Dynamic Programming, 
-Bit manipulation, 
-Number Theory.
-
 This is the the repo for the full project, so I will be updating it everyday.
 
 Codeforces Username : Ram_2809
+
+LeetCode Username : Ram_2809
 
 CSES Username : RAMAVS_2809 (Old Username : FOX_2809)
 
